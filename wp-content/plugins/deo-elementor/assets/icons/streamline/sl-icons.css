@@ -1,0 +1,157 @@
+@font-face {
+  font-family: 'sl-icons';
+  src: url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.eot?20891070');
+  src: url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.eot?20891070#iefix') format('embedded-opentype'),
+       url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.woff2?20891070') format('woff2'),
+       url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.woff?20891070') format('woff'),
+       url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.ttf?20891070') format('truetype'),
+       url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/streamline/font/sl-icons.svg?20891070#sl-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'sl-icons';
+    src: url('https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/font/sl-icons.svg?20891070#sl-icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="sl-"]:before, [class*=" sl-"]:before {
+  font-family: "sl-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+ 
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Font smoothing. That was taken from TWBS */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.sl-bubble-chat:before { content: '\e800'; } /* '' */
+.sl-bubble-heart:before { content: '\e801'; } /* '' */
+.sl-camera-photo:before { content: '\e802'; } /* '' */
+.sl-camera-polaroid:before { content: '\e803'; } /* '' */
+.sl-camera-video:before { content: '\e804'; } /* '' */
+.sl-cassette-player:before { content: '\e805'; } /* '' */
+.sl-charlie-chaplin:before { content: '\e806'; } /* '' */
+.sl-chef-hat:before { content: '\e807'; } /* '' */
+.sl-clock:before { content: '\e808'; } /* '' */
+.sl-coffee-machine:before { content: '\e809'; } /* '' */
+.sl-cog:before { content: '\e80a'; } /* '' */
+.sl-computer-imac:before { content: '\e80b'; } /* '' */
+.sl-computer-network:before { content: '\e80c'; } /* '' */
+.sl-computer-pc:before { content: '\e80d'; } /* '' */
+.sl-computer-screen-1:before { content: '\e80e'; } /* '' */
+.sl-contact-book:before { content: '\e80f'; } /* '' */
+.sl-computer-screen-2:before { content: '\e810'; } /* '' */
+.sl-content-download:before { content: '\e811'; } /* '' */
+.sl-crop:before { content: '\e812'; } /* '' */
+.sl-fountain-pen-head-1:before { content: '\e813'; } /* '' */
+.sl-crown:before { content: '\e814'; } /* '' */
+.sl-e-mail:before { content: '\e815'; } /* '' */
+.sl-forklift:before { content: '\e816'; } /* '' */
+.sl-diving-gear:before { content: '\e817'; } /* '' */
+.sl-globe:before { content: '\e818'; } /* '' */
+.sl-eyedropper:before { content: '\e819'; } /* '' */
+.sl-designer-cup:before { content: '\e81a'; } /* '' */
+.sl-drink-cocktail:before { content: '\e81b'; } /* '' */
+.sl-gauge:before { content: '\e81c'; } /* '' */
+.sl-fountain-pen-head-2:before { content: '\e81d'; } /* '' */
+.sl-envelope:before { content: '\e81e'; } /* '' */
+.sl-home:before { content: '\e81f'; } /* '' */
+.sl-handbag:before { content: '\e820'; } /* '' */
+.sl-hotdog:before { content: '\e821'; } /* '' */
+.sl-grid:before { content: '\e822'; } /* '' */
+.sl-heart:before { content: '\e823'; } /* '' */
+.sl-drink-coffee:before { content: '\e824'; } /* '' */
+.sl-layers-image:before { content: '\e825'; } /* '' */
+.sl-iphone:before { content: '\e826'; } /* '' */
+.sl-griller:before { content: '\e827'; } /* '' */
+.sl-link:before { content: '\e828'; } /* '' */
+.sl-cooking-pot:before { content: '\e829'; } /* '' */
+.sl-icecream:before { content: '\e82a'; } /* '' */
+.sl-magic-wand:before { content: '\e82b'; } /* '' */
+.sl-magnet:before { content: '\e82c'; } /* '' */
+.sl-lock-unlocked:before { content: '\e82d'; } /* '' */
+.sl-ipod:before { content: '\e82e'; } /* '' */
+.sl-microphone:before { content: '\e82f'; } /* '' */
+.sl-image:before { content: '\e830'; } /* '' */
+.sl-location-pin:before { content: '\e831'; } /* '' */
+.sl-monocle:before { content: '\e832'; } /* '' */
+.sl-notebook-2:before { content: '\e833'; } /* '' */
+.sl-paint-brush:before { content: '\e834'; } /* '' */
+.sl-paint-roller:before { content: '\e835'; } /* '' */
+.sl-music-note:before { content: '\e836'; } /* '' */
+.sl-paint-palette:before { content: '\e837'; } /* '' */
+.sl-fork-knife:before { content: '\e838'; } /* '' */
+.sl-picture-frame:before { content: '\e839'; } /* '' */
+.sl-quill-ink:before { content: '\e83a'; } /* '' */
+.sl-notebook-1:before { content: '\e83b'; } /* '' */
+.sl-bomb:before { content: '\e83c'; } /* '' */
+.sl-shield-cross:before { content: '\e83d'; } /* '' */
+.sl-mp3-player:before { content: '\e83e'; } /* '' */
+.sl-script:before { content: '\e83f'; } /* '' */
+.sl-pen-fountain:before { content: '\e840'; } /* '' */
+.sl-shopping-cart-add:before { content: '\e841'; } /* '' */
+.sl-paint-bucket:before { content: '\e842'; } /* '' */
+.sl-refresh:before { content: '\e843'; } /* '' */
+.sl-server:before { content: '\e844'; } /* '' */
+.sl-headphone:before { content: '\e845'; } /* '' */
+.sl-book:before { content: '\e846'; } /* '' */
+.sl-briefcase:before { content: '\e847'; } /* '' */
+.sl-layers:before { content: '\e848'; } /* '' */
+.sl-backpack:before { content: '\e849'; } /* '' */
+.sl-smart-device:before { content: '\e84a'; } /* '' */
+.sl-remote-control-screen:before { content: '\e84b'; } /* '' */
+.sl-smiley:before { content: '\e84c'; } /* '' */
+.sl-pencil-ruler:before { content: '\e84d'; } /* '' */
+.sl-lock-locked:before { content: '\e84e'; } /* '' */
+.sl-sneakers:before { content: '\e84f'; } /* '' */
+.sl-sofa:before { content: '\e850'; } /* '' */
+.sl-sub-woofer:before { content: '\e851'; } /* '' */
+.sl-stamp:before { content: '\e852'; } /* '' */
+.sl-skull:before { content: '\e853'; } /* '' */
+.sl-settings:before { content: '\e854'; } /* '' */
+.sl-location-user:before { content: '\e855'; } /* '' */
+.sl-teapot:before { content: '\e856'; } /* '' */
+.sl-remote-control-hand:before { content: '\e857'; } /* '' */
+.sl-umbrella:before { content: '\e858'; } /* '' */
+.sl-vector:before { content: '\e859'; } /* '' */
+.sl-windows:before { content: '\e85a'; } /* '' */
+.sl-trash-can:before { content: '\e85b'; } /* '' */
+.sl-user-chat:before { content: '\e85c'; } /* '' */
+.sl-wrenches:before { content: '\e85d'; } /* '' */
+.sl-syringe:before { content: '\e85e'; } /* '' */
+.sl-write:before { content: '\e85f'; } /* '' */
+.sl-user:before { content: '\e860'; } /* '' */
+.sl-target:before { content: '\e861'; } /* '' */
+.sl-pen-point-tip:before { content: '\e862'; } /* '' */
+.sl-shopping-cart-remove:before { content: '\e863'; } /* '' */

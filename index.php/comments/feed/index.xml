@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments for cloudin-corp	</title>
+	<atom:link href="https://cloudinteam.github.io/cloudin-corp-site/index.php/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cloudinteam.github.io/cloudin-corp-site</link>
+	<description></description>
+	<lastBuildDate>Thu, 19 Jan 2023 08:55:32 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		Comment on Hello world! by A WordPress Commenter		</title>
+		<link>https://cloudinteam.github.io/cloudin-corp-site/index.php/2023/01/19/hello-world/#comment-1</link>
+
+		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
+		<pubDate>Thu, 19 Jan 2023 07:31:17 +0000</pubDate>
+		<guid isPermaLink="false">https://cloudinteam.github.io/cloudin-corp-site/?p=1#comment-1</guid>
+
+					<description><![CDATA[Hi, this is a comment.
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
+Commenter avatars come from &lt;a href=&quot;https://en.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
+			<content:encoded><![CDATA[<p>Hi, this is a comment.<br />
+To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.<br />
+Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The Easy Way to Add Fonts to Your Website (Including Custom Fonts) by DeoAdmin		</title>
+		<link>https://cloudinteam.github.io/cloudin-corp-site/index.php/2019/09/14/the-easy-way-to-add-fonts-to-your-website-including-custom-fonts/#comment-4</link>
+
+		<dc:creator><![CDATA[DeoAdmin]]></dc:creator>
+		<pubDate>Tue, 17 Sep 2019 12:09:54 +0000</pubDate>
+		<guid isPermaLink="false">https://emaus.deothemes.com/?p=265#comment-4</guid>
+
+					<description><![CDATA[Glad you guys enjoy it <img src="https://s.w.org/images/core/emoji/14.0.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> Feel free to use amazing Drag and Drop Elementor page builder as well.]]></description>
+			<content:encoded><![CDATA[<p>Glad you guys enjoy it 🙂 Feel free to use amazing Drag and Drop Elementor page builder as well.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The Easy Way to Add Fonts to Your Website (Including Custom Fonts) by Jessica Robins		</title>
+		<link>https://cloudinteam.github.io/cloudin-corp-site/index.php/2019/09/14/the-easy-way-to-add-fonts-to-your-website-including-custom-fonts/#comment-3</link>
+
+		<dc:creator><![CDATA[Jessica Robins]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2019 07:10:24 +0000</pubDate>
+		<guid isPermaLink="false">https://emaus.deothemes.com/?p=265#comment-3</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;https://cloudinteam.github.io/cloudin-corp-site/index.php/2019/09/14/the-easy-way-to-add-fonts-to-your-website-including-custom-fonts/#comment-2&quot;&gt;Chris Do&lt;/a&gt;.
+
+This template is so awesome. I didn’t expect so many features inside. All Blog pages are very useful, you can launch your own blog in a few seconds. I will rate 5 stars.]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="https://cloudinteam.github.io/cloudin-corp-site/index.php/2019/09/14/the-easy-way-to-add-fonts-to-your-website-including-custom-fonts/#comment-2">Chris Do</a>.</p>
+<p>This template is so awesome. I didn’t expect so many features inside. All Blog pages are very useful, you can launch your own blog in a few seconds. I will rate 5 stars.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on The Easy Way to Add Fonts to Your Website (Including Custom Fonts) by Chris Do		</title>
+		<link>https://cloudinteam.github.io/cloudin-corp-site/index.php/2019/09/14/the-easy-way-to-add-fonts-to-your-website-including-custom-fonts/#comment-2</link>
+
+		<dc:creator><![CDATA[Chris Do]]></dc:creator>
+		<pubDate>Sun, 15 Sep 2019 03:54:39 +0000</pubDate>
+		<guid isPermaLink="false">https://emaus.deothemes.com/?p=265#comment-2</guid>
+
+					<description><![CDATA[Hey, this is just great. I’ve never seen such a beautiful and clean WordPress theme. And you can customize anything with a live customizer and drag n drop page builder. This is the best theme in the world!]]></description>
+			<content:encoded><![CDATA[<p>Hey, this is just great. I’ve never seen such a beautiful and clean WordPress theme. And you can customize anything with a live customizer and drag n drop page builder. This is the best theme in the world!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

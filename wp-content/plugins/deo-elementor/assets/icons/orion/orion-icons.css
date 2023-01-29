@@ -1,0 +1,242 @@
+/*
+    Icon Font orion-font generated from orioniconlibrary.com
+  */
+
+  @font-face {
+  font-family: "orion-font";
+  src: url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.eot");
+  src: url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.eot#iefix") format("embedded-opentype"),
+       url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.woff2") format("woff2"),
+       url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.woff") format("woff"),
+       url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.ttf") format("truetype"),
+       url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.svg#orion-font") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "orion-font";
+    src: url("https://cloudinteam.github.io/cloudin-corp-site/wp-content/plugins/deo-elementor/assets/icons/orion/orion-font.svg#orion-font") format("svg");
+  }
+}
+
+  [data-icon]::before { content: attr(data-icon); }
+
+  [data-icon]::before,
+  .o-24h-support-1::before,
+.o-appointment-1::before,
+.o-at-sign--1::before,
+.o-briefcase-1::before,
+.o-calculator-1::before,
+.o-calls-1::before,
+.o-cardboard-box-1::before,
+.o-champion-1::before,
+.o-chats-1::before,
+.o-checkmark-1::before,
+.o-computer-network-1::before,
+.o-contact-1::before,
+.o-currency-1::before,
+.o-customer-support-1::before,
+.o-data-app-1::before,
+.o-data-content-1::before,
+.o-database-1::before,
+.o-detective-1::before,
+.o-digital-camera-1::before,
+.o-diploma-1::before,
+.o-dislike-hand-1::before,
+.o-download-1::before,
+.o-duplicate-tool-1::before,
+.o-ecommerce-cart-1::before,
+.o-edit-window-1::before,
+.o-error-bug-1::before,
+.o-female-user-1::before,
+.o-firewall-1::before,
+.o-flag-1::before,
+.o-flame-1::before,
+.o-funnel-1::before,
+.o-game-controller-1::before,
+.o-giftbox-1::before,
+.o-handshake-1::before,
+.o-heart-1::before,
+.o-id-card-1::before,
+.o-image-gallery-1::before,
+.o-ipad-1::before,
+.o-iphone-1::before,
+.o-keyboard-1::before,
+.o-label-tag-1::before,
+.o-laptop-screen-1::before,
+.o-like-hand-1::before,
+.o-literature-1::before,
+.o-loading-1::before,
+.o-lock-1::before,
+.o-luxury-1::before,
+.o-mail-1::before,
+.o-male-user-1::before,
+.o-map-marker-1::before,
+.o-message-app-1::before,
+.o-messaging-app-1::before,
+.o-microphone-1::before,
+.o-money-1::before,
+.o-money-box-1::before,
+.o-mouse-1::before,
+.o-music-1::before,
+.o-new-badge-1::before,
+.o-paper-plane-1::before,
+.o-paper-stack-1::before,
+.o-pay-1::before,
+.o-pay-by-card-1::before,
+.o-people-1::before,
+.o-pie-chart-1::before,
+.o-play-1::before,
+.o-play-movie-1::before,
+.o-power-cord-1::before,
+.o-print-1::before,
+.o-processor-cpu-1::before,
+.o-property-1::before,
+.o-puzzle-1::before,
+.o-receipt-1::before,
+.o-remote-control-1::before,
+.o-repository-1::before,
+.o-router-1::before,
+.o-royal-1::before,
+.o-sad-emoji-1::before,
+.o-safe-1::before,
+.o-sales-up-1::before,
+.o-sand-clock-1::before,
+.o-search-window-1::before,
+.o-secure-payment-1::before,
+.o-server-1::before,
+.o-shared-folder-1::before,
+.o-shield-security-1::before,
+.o-shopping-bag-1::before,
+.o-smiley-1::before,
+.o-social-1::before,
+.o-spacecraft-1::before,
+.o-speed-1::before,
+.o-stopwatch-1::before,
+.o-store-1::before,
+.o-syncing-document-1::before,
+.o-tablet-1::before,
+.o-telephone-operator-1::before,
+.o-tv-screen-1::before,
+.o-umbrella-1::before,
+.o-video-1::before,
+.o-wallet-1::before,
+.o-wireframe-1::before {
+    display: inline-block;
+  font-family: "orion-font";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  }
+
+  .o-24h-support-1::before { content: "\f842"; }
+.o-appointment-1::before { content: "\f843"; }
+.o-at-sign--1::before { content: "\f845"; }
+.o-briefcase-1::before { content: "\f846"; }
+.o-calculator-1::before { content: "\f847"; }
+.o-calls-1::before { content: "\f848"; }
+.o-cardboard-box-1::before { content: "\f849"; }
+.o-champion-1::before { content: "\f84a"; }
+.o-chats-1::before { content: "\f84b"; }
+.o-checkmark-1::before { content: "\f8a7"; }
+.o-computer-network-1::before { content: "\f84c"; }
+.o-contact-1::before { content: "\f84d"; }
+.o-currency-1::before { content: "\f84e"; }
+.o-customer-support-1::before { content: "\f84f"; }
+.o-data-app-1::before { content: "\f850"; }
+.o-data-content-1::before { content: "\f851"; }
+.o-database-1::before { content: "\f852"; }
+.o-detective-1::before { content: "\f854"; }
+.o-digital-camera-1::before { content: "\f855"; }
+.o-diploma-1::before { content: "\f856"; }
+.o-dislike-hand-1::before { content: "\f857"; }
+.o-download-1::before { content: "\f8a6"; }
+.o-duplicate-tool-1::before { content: "\f858"; }
+.o-ecommerce-cart-1::before { content: "\f859"; }
+.o-edit-window-1::before { content: "\f85a"; }
+.o-error-bug-1::before { content: "\f85b"; }
+.o-female-user-1::before { content: "\f85c"; }
+.o-firewall-1::before { content: "\f85d"; }
+.o-flag-1::before { content: "\f85e"; }
+.o-flame-1::before { content: "\f85f"; }
+.o-funnel-1::before { content: "\f860"; }
+.o-game-controller-1::before { content: "\f861"; }
+.o-giftbox-1::before { content: "\f862"; }
+.o-handshake-1::before { content: "\f863"; }
+.o-heart-1::before { content: "\f864"; }
+.o-id-card-1::before { content: "\f865"; }
+.o-image-gallery-1::before { content: "\f866"; }
+.o-ipad-1::before { content: "\f867"; }
+.o-iphone-1::before { content: "\f868"; }
+.o-keyboard-1::before { content: "\f869"; }
+.o-label-tag-1::before { content: "\f86a"; }
+.o-laptop-screen-1::before { content: "\f86b"; }
+.o-like-hand-1::before { content: "\f86c"; }
+.o-literature-1::before { content: "\f86d"; }
+.o-loading-1::before { content: "\f86e"; }
+.o-lock-1::before { content: "\f86f"; }
+.o-luxury-1::before { content: "\f870"; }
+.o-mail-1::before { content: "\f871"; }
+.o-male-user-1::before { content: "\f872"; }
+.o-map-marker-1::before { content: "\f873"; }
+.o-message-app-1::before { content: "\f874"; }
+.o-messaging-app-1::before { content: "\f875"; }
+.o-microphone-1::before { content: "\f876"; }
+.o-money-1::before { content: "\f877"; }
+.o-money-box-1::before { content: "\f878"; }
+.o-mouse-1::before { content: "\f879"; }
+.o-music-1::before { content: "\f87a"; }
+.o-new-badge-1::before { content: "\f87b"; }
+.o-paper-plane-1::before { content: "\f87c"; }
+.o-paper-stack-1::before { content: "\f87d"; }
+.o-pay-1::before { content: "\f87e"; }
+.o-pay-by-card-1::before { content: "\f87f"; }
+.o-people-1::before { content: "\f880"; }
+.o-pie-chart-1::before { content: "\f881"; }
+.o-play-1::before { content: "\f882"; }
+.o-play-movie-1::before { content: "\f883"; }
+.o-power-cord-1::before { content: "\f884"; }
+.o-print-1::before { content: "\f885"; }
+.o-processor-cpu-1::before { content: "\f886"; }
+.o-property-1::before { content: "\f887"; }
+.o-puzzle-1::before { content: "\f888"; }
+.o-receipt-1::before { content: "\f889"; }
+.o-remote-control-1::before { content: "\f88a"; }
+.o-repository-1::before { content: "\f88b"; }
+.o-router-1::before { content: "\f88c"; }
+.o-royal-1::before { content: "\f88d"; }
+.o-sad-emoji-1::before { content: "\f88e"; }
+.o-safe-1::before { content: "\f88f"; }
+.o-sales-up-1::before { content: "\f890"; }
+.o-sand-clock-1::before { content: "\f891"; }
+.o-search-window-1::before { content: "\f892"; }
+.o-secure-payment-1::before { content: "\f893"; }
+.o-server-1::before { content: "\f894"; }
+.o-shared-folder-1::before { content: "\f895"; }
+.o-shield-security-1::before { content: "\f896"; }
+.o-shopping-bag-1::before { content: "\f897"; }
+.o-smiley-1::before { content: "\f898"; }
+.o-social-1::before { content: "\f899"; }
+.o-spacecraft-1::before { content: "\f89a"; }
+.o-speed-1::before { content: "\f89b"; }
+.o-stopwatch-1::before { content: "\f89c"; }
+.o-store-1::before { content: "\f89d"; }
+.o-syncing-document-1::before { content: "\f89e"; }
+.o-tablet-1::before { content: "\f89f"; }
+.o-telephone-operator-1::before { content: "\f8a0"; }
+.o-tv-screen-1::before { content: "\f8a1"; }
+.o-umbrella-1::before { content: "\f8a2"; }
+.o-video-1::before { content: "\f8a3"; }
+.o-wallet-1::before { content: "\f8a4"; }
+.o-wireframe-1::before { content: "\f8a5"; }
+
+  
